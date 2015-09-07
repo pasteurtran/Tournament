@@ -12,6 +12,10 @@ Latest Version
 Version 1.0
 Uploaded and cleaned folder. Not fully Udacious.. yet. 
 
+Version 2.0
+Cleaned and added more documention including inline commenting.
+Had not mentioned that this can run through odd number of players.
+
 
 Files
 -----
